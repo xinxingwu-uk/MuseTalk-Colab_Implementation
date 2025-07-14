@@ -5,9 +5,7 @@ Here we provided ***a google colab implementation*** of MuseTalk.
 ---
 ## Description
 
-HeyGem is a free and open-source AI avatar project developed by Duix.com. It enables anyone to create ultra-realistic digital human avatars and produce AI-driven videos easily and at almost zero cost, using ordinary computer hardware.
-
-HeyGem uses artificial intelligence to train digital avatars from real-person video data, bypassing the need for expensive and complex 3D modeling.
+MuseTalk: Real-Time High-Fidelity Video Dubbing via Spatio-Temporal Sampling is a novel AI framework for real-time video dubbing that synchronizes lip movements to new audio while preserving facial identity and visual quality. By leveraging a two-stage GAN-based architecture in the latent space of a pretrained VAE, MuseTalk introduces spatio-temporal sampling strategies—temporal frame alignment and spatially focused mouth region enhancement—to boost lip-sync accuracy and visual realism. 
 
 ---
 ## Examples
