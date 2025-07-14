@@ -5,7 +5,7 @@ Here we provided ***a google colab implementation*** of MuseTalk.
 ---
 ## Description
 
-MuseTalk: Real-Time High-Fidelity Video Dubbing via Spatio-Temporal Sampling is a novel AI framework for real-time video dubbing that synchronizes lip movements to new audio while preserving facial identity and visual quality. By leveraging a two-stage GAN-based architecture in the latent space of a pretrained VAE, MuseTalk introduces spatio-temporal sampling strategies—temporal frame alignment and spatially focused mouth region enhancement—to boost lip-sync accuracy and visual realism. 
+MuseTalk is an AI framework for real-time video dubbing that synchronizes lip movements to new audio while preserving facial identity and visual quality. By leveraging a two-stage GAN-based architecture in the latent space of a pretrained VAE, MuseTalk introduces spatio-temporal sampling strategies—temporal frame alignment and spatially focused mouth region enhancement—to boost lip-sync accuracy and visual realism. 
 
 ---
 ## Examples
@@ -108,7 +108,7 @@ Setting in Colab: In the implementation, used A100GPU in Colab as follows
 
 ---
 
-* ***Step 1***: Download the ipynb file https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/DownloadModel.ipynb from the GitHub repository, then upload it to your Google Drive.
+* ***Step 1***: Download the ipynb file https://github.com/xinxingwu-uk/MuseTalk-Colab_Implementation/blob/main/DownloadModel.ipynb from the GitHub repository, then upload it to your Google Drive.
 
 * ***Step 2***: In Google Drive, open the ipynb file by Google Colab
 
@@ -118,24 +118,21 @@ Setting in Colab: In the implementation, used A100GPU in Colab as follows
 
 * ***Step 4***: After execution, check your Google Drive in the same folder where the notebook is located. The whole project should now be available there - Google Drive folder: HeyGem-Linux-Python-Hack.
 
-* ***Step 5***: Upload the ipynb files Audio2Video.ipynb (https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb) and Text2Video.ipynb (https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb) in your Google Drive, right-click, and open with Google Colab. Then, run through the notebook step by step:
+* ***Step 5***: Upload the ipynb files VideoExampleTesting.ipynb https://github.com/xinxingwu-uk/MuseTalk-Colab_Implementation/blob/main/VideoExampleTesting.ipynb in your Google Drive, right-click, and open with Google Colab. Then, run through the notebook step by step:
 
-Take ***Text + Orignal Video to Video** ([Text2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb)) as an example,
+> (a) Find the uploaded VideoExampleTesting.ipynb, open it
 
-> (a) Find the uploaded Text2Video.ipynb, open it
-
-<img src="resources/fig2.png" width="280">
 
 > (b) Mount Google Drive
 
 
-> (c) Execute all cells in order for Text2Video.ipynb. After completing implementation, a file 1004-r.mp4 will appear in your Google Drive folder
+> (c) Execute all cells in order for VideoExampleTesting.ipynb. After completing implementation:
 
-<img src="resources/fig3.png" width="280">
+The results saved to ./results/test/v15/wu_wu.mp4
 
 
 ---
->***Note***: All related materials, including notebooks, models, and output files, are provided in the [Google Drive](https://drive.google.com/drive/folders/16el0arUEDTnPHT7LIU0kU-LIMHWLGvVQ?usp=sharing)
+>***Note***: All related materials, including notebooks, models, and output files, are provided in the [Google Drive](https://drive.google.com/drive/folders/1ZePnw7IOCg8R-0JyfGYf7ptPdyJhNb_Y?usp=sharing)
 
 
 ---
