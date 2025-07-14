@@ -38,6 +38,7 @@ MuseTalk is an AI framework for real-time video dubbing that synchronizes lip mo
 </tr>
 </table>
 
+> ***Note***: text to audio, please see https://github.com/xinxingwu-uk/OpenVoice 
 
 ### Case 2: Audio + Orignal Video to Video
 <table class="center">
