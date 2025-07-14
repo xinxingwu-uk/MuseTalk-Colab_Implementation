@@ -145,4 +145,4 @@ Take ***Text + Orignal Video to Video** ([Text2Video.ipynb](https://github.com/x
 
 This project is based on [Original Project](https://github.com/xinxingwu-uk/MuseTalk/tree/main) licensed under the MIT License.
 
-See [LICENSE](https://github.com/xinxingwu-uk/Colab_Implementation-Dance_ControlNeXt-SVD/blob/main/LICENSE) for details.
+See [LICENSE](https://github.com/xinxingwu-uk/MuseTalk-Colab_Implementation/blob/main/LICENSE) for details.
