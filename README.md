@@ -12,35 +12,8 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 ---
 ## Examples
 
-### Case 1: Text + Orignal Video to Video ([Text2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb))
-<table class="center">
-<tr>
-    <td width=30% style="border: none">
-        Input 1
-    </td>
-    <td width=35% style="border: none">
-        Input 2 (Original)
-    </td>
-    <td width=35% style="border: none">
-        Output
-    </td>
-</tr>
+### Case 1: Text + Orignal Video to Video
 
-<tr>
-    <td width=30% style="border: none">
-       In order to produce effective targeted therapies for cancer, scientists need to isolate the genetic and phenotypic characteristics of cancer cells ...
-    </td>
-    <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/8665a86f-7508-4922-877a-1805e67ca507" muted="false"></video>
-    </td>
-    <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/987cea5d-6d53-412a-8cf9-274d21aa27b5" muted="false"></video>
-    </td>
-</tr>
-</table>
-
-
-### Case 2: Text + Orignal Video to Video ([Text2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Text2Video.ipynb))
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -59,16 +32,16 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
        Large language model is gradually changing people's lives...
     </td>
     <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/d91aef8f-bc0c-499d-bbc0-c5641b07f16b" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/236c1c11-fb19-468a-a60b-02f0689783c1" muted="false"></video>
     </td>
     <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/6b5a0f7d-e00e-4b78-a201-9c827cbf7599" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/c384d17b-3236-4a05-b1a6-0100e140841a" muted="false"></video>
     </td>
 </tr>
 </table>
 
 
-### Case 3: Audio + Orignal Video to Video ([Audio2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb))
+### Case 2: Audio + Orignal Video to Video
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -84,19 +57,19 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 
 <tr>
     <td width=30% style="border: none">
-       <a href="https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/audio2videoAudio.mp3">Audio</a>
+       <a href="https://github.com/xinxingwu-uk/MuseTalk-Colab_Implementation/blob/main/resources/MuseTalkTest1Audio.mp3">Audio</a>
     </td>
     <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/dc00158b-940c-4bc9-9556-7599c086b626" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/38afbcb5-575c-4e05-bc63-71977a314cb0" muted="false"></video>
     </td>
     <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/a43c099c-c013-4cde-9d01-131ef0398590" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/884209d9-93f9-4a37-9e10-b471a06d4e83" muted="false"></video>
     </td>
 </tr>
 </table>
 
 
-### Case 4: Audio + Orignal Video to Video ([Audio2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb))
+### Case 3: Audio + Orignal Video to Video
 <table class="center">
 <tr>
     <td width=30% style="border: none">
@@ -112,13 +85,13 @@ HeyGem uses artificial intelligence to train digital avatars from real-person vi
 
 <tr>
     <td width=30% style="border: none">
-       <a href="https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/HeygemTest1Audio.mp3">Audio</a>
+       <a href="https://github.com/xinxingwu-uk/MuseTalk-Colab_Implementation/blob/main/resources/MuseTalkTest2Audio.mp3">Audio</a>
     </td>
     <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/5a894218-93e3-4ba2-b063-4080ba6827e6" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/f3051dc1-68a6-4814-b4da-c92ad579e0b1" muted="false"></video>
     </td>
     <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/b42927ac-47ad-4fc7-9ec8-f06261c0694a" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/8086b66f-d201-43e5-b40a-df15e7a57ef5" muted="false"></video>
     </td>
 </tr>
 </table>
