@@ -179,6 +179,6 @@ You can find the generated results (such as output videos) in this folder.
 ---
 ## Acknowledgements
 
-This project is based on [Original Project](https://github.com/xinxingwu-uk/MuseV) licensed under the MIT License.
+This project is based on [Original Project](https://github.com/xinxingwu-uk/MuseTalk/tree/main) licensed under the MIT License.
 
 See [LICENSE](https://github.com/xinxingwu-uk/Colab_Implementation-Dance_ControlNeXt-SVD/blob/main/LICENSE) for details.
