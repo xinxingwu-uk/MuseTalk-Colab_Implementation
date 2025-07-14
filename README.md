@@ -1,8 +1,6 @@
 # MuseTalk-Colab_Implementation
 
-# Colab_Implementation-HeyGem
-
-Here we provided ***a google colab implementation*** of HeyGem.
+Here we provided ***a google colab implementation*** of MuseTalk.
 
 ---
 ## Description
